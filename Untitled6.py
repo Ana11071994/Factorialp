@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[12]:
 
 
 num = 8  
@@ -16,7 +13,7 @@ else:
    print("The factorial of",num,"is",factorial)   
 
 
-# In[ ]:
+
 
 
 
